@@ -14,6 +14,8 @@
 
 **I just post several pictures, you can download the html file to read the whole article. I hope it can save you a lot of time, because you may have no need to read other blog articles...If you like it, please give me a start. If you have interest in this field, please feel free to contact me.**
 
+
+
 # Brief View
 
 ![image](https://github.com/Blabala/Summary_LSTM_Stock_Price/blob/master/pictures/1.PNG)
