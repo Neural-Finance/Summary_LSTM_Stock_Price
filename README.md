@@ -1,4 +1,4 @@
-# <center> A review for stock time series problem based on LSTM (Tensorflow)</center>
+# <center> A review for stock time series problem based on LSTM</center>
 
 ### <center> Alex Fang </center>
 
