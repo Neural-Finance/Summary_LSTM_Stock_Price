@@ -17,8 +17,8 @@
 
 # Brief View
 
-![image](https://github.com/Blabala/Summary_LSTM_Stock_Price/blob/master/pictures/1.PNG)
+![image](https://github.com/ThuAlexFang/Summary_LSTM_Stock_Price/blob/master/pictures/1.PNG)
 
-![image](https://github.com/Blabala/Summary_LSTM_Stock_Price/blob/master/pictures/3.PNG)
+![image](https://github.com/ThuAlexFang/Summary_LSTM_Stock_Price/blob/master/pictures/3.PNG)
 
-![image](https://github.com/Blabala/Summary_LSTM_Stock_Price/blob/master/pictures/4.PNG)
+![image](https://github.com/ThuAlexFang/Summary_LSTM_Stock_Price/blob/master/pictures/4.PNG)
