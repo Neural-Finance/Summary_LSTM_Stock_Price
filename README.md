@@ -1,4 +1,4 @@
-# <center> A review for stock time series problem based on LSTM</center>
+# <center> Try all kinds of stock price prediction via LSTM</center>
 
 **<center> Alex Fang </center>**
 
