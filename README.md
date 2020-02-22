@@ -4,7 +4,9 @@
 
 **<center> THU, Computer Science Department, E-mail: alex.holla@foxmail.com </center>**
 
-**Abstracts:** Many blog writers have published the articles about using LSTM to solve stock time series problem. But there are several common shortcomings. In this article, I will talk about the details both in experiments and programmings. And I want to use it in equity trading. If you both have some experience and interest in this fields, please feel free to contact me.
+**Abstracts:** 
+
+Many blog writers have published the articles about using LSTM to solve stock time series problem. But there are several common shortcomings. In this article, I will talk about the details both in experiments and programmings. And I want to use it in equity trading. If you both have some experience and interest in this fields, please feel free to contact me.
 
 1.They just show the codes and not do individual experiments to show the differences. Some peopel did so, because they don't know it clearly. Some people did so just to save time. But it's not good for new beginner. **Many new beginner will just read it and it's hard for them to start their first projects.**
 
@@ -22,3 +24,5 @@
 ![image](https://github.com/ThuAlexFang/Summary_LSTM_Stock_Price/blob/master/pictures/3.PNG)
 
 ![image](https://github.com/ThuAlexFang/Summary_LSTM_Stock_Price/blob/master/pictures/4.PNG)
+
+**If you think this materia is helpful, please give me a star, thanks.**
