@@ -1,6 +1,6 @@
 # <center> Try all kinds of stock price prediction via LSTM</center>
 
-**Abstracts:**  Many blog writers have published the articles about using LSTM to solve stock time series problem. But there are several common shortcomings. In this article, I will talk about the details both in experiments and programmings. And I want to use it in equity trading. If you both have some experience and interest in this fields, please feel free to contact me.
+**Abstracts:**  Although all new birds proudly tell you that they can know lstm for stock prediction, and they probably can use lstm to do well in stock price prediction. All old bird will tell you the conclusion directly that LSTM can't do this job well. For me, I want to tell you that, different settings really matter. You are sure about the best way to generalize the raw data, output length, network deepth, etc. These things worth your time and patience. In this work, I will talk about the details both in experiments and programmings.
 
 1.They just show the codes and not do individual experiments to show the differences. Some peopel did so, because they don't know it clearly. Some people did so just to save time. But it's not good for new beginner. **Many new beginner will just read it and it's hard for them to start their first projects.**
 
