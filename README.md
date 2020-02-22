@@ -1,9 +1,5 @@
 # <center> Try all kinds of stock price prediction via LSTM</center>
 
-**<center> Alex Fang </center>**
-
-**<center> THU, Computer Science Department, E-mail: alex.holla@foxmail.com </center>**
-
 **Abstracts:** 
 
 Many blog writers have published the articles about using LSTM to solve stock time series problem. But there are several common shortcomings. In this article, I will talk about the details both in experiments and programmings. And I want to use it in equity trading. If you both have some experience and interest in this fields, please feel free to contact me.
